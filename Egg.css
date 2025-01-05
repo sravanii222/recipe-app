@@ -1,0 +1,36 @@
+.egg{
+    background-color: bisque;
+    margin: 10px;
+    padding: 20px;
+}
+
+.batter{
+    font-size: 2rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+.gram{
+    font-size: 3rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+.soda{
+    font-size: 2rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+.check{
+    font-size: 3rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+.cut{
+    font-size: 2rem;
+
+    margin: 10px;
+    padding: 20px;
+}

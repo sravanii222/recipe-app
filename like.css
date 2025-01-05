@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .like-button {
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  .heart {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    position: relative;
+    margin-right: 8px;
+    transform: rotate(45deg);
+  }
+  
+  .heart::before,
+  .heart::after {
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+  .heart::before {
+    top: -15px;
+    left: 0;
+  }
+  
+  .heart::after {
+    top: 0;
+    left: 15px;
+  }

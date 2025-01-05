@@ -1,0 +1,37 @@
+.pen{
+    background-color: bisque;
+    margin: 10px;
+    padding: 20px;
+}
+
+.instructions{
+     font-family: 2rem;
+     font-size: 2rem;
+     font-weight: 2rem;
+     margin: 10px;
+    padding: 20px;
+}
+     
+
+
+.recipe{
+    color:black;
+    font-size: 2rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+.tip{
+    color:black;
+    font-size: 2rem;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.how{
+    font-size: 2rem;
+    margin: 10px;
+    padding: 20px;
+}
+

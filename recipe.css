@@ -1,0 +1,32 @@
+.foods{
+    display: flex;
+}  
+/* .table1{
+   padding: 30px 30px 30px 30px;
+   border-color: white;
+   height: 200px;
+   width: 240px;
+   background-color: aliceblue;
+ } */
+.table1{
+   
+   padding: 10px;
+}   
+
+p{
+font-family: sans-serif;
+color: black;
+font-size: 25px;
+padding: 100px;
+ margin: 40px;
+}
+.what{
+   font-size: 3rem;
+}
+.speed{
+   font-size: 2rem;
+   color: blue;
+}
+.one{
+   background-color: bisque;
+}
